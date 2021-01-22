@@ -1,0 +1,75 @@
+
+
+.firstParti{
+    background-color: white;
+    color: gray;
+    width: 45%;
+    height: 35%;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.secondeParti {
+    background-color: white;
+    color: gray;
+    width: 45%;
+    height: 35%;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+   
+}
+
+.thirdParti{
+    background-color: white;
+    color: gray;
+    width: 45%;
+    height: 35%;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-top:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 15px;
+    padding-bottom: 40px;
+
+
+}
+
+/*fin de la modification des parties */
+
+.tim{
+    border-radius: 50%;
+    width: 145px;
+    margin-left: -10px;
+    border: solid 3px gray;
+}
+
+
+.titre{
+    font-weight: bold;
+    text-align: center;
+}
+
+.image{
+    width: 100px;
+    float: left;
+}
+
+.vie{
+    margin-left: 150px;
+    margin-top: 30px;
+}
